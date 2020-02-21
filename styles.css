@@ -1,0 +1,39 @@
+body {
+  font-family: "Akronim", cursive;
+}
+
+.header {
+  margin-top: 2rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.content {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.title {
+  text-decoration: underline;
+}
+
+.LIT_buttons {
+  margin-top: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+button {
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.highlight {
+  text-decoration: underline;
+}
